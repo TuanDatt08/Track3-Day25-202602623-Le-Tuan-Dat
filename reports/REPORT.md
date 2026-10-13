@@ -1,6 +1,7 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Le Tuan Dat — 202602623  **Commit:** _(điền hash sau khi commit)_  **Điểm tự động (`make grade`):** 84 / 88
+**Họ tên / nhóm:** Le Tuan Dat — 202602623  **Commit:** 0ed5854
+**Điểm tự động (`make grade`):** 84 / 88
 
 > 4 điểm còn lại là "Part E — dữ liệu ẩn" (`hidden None` khi chạy local), chỉ giảng viên chấm được.
 > Mọi số liệu dưới đây lấy từ `reports/gameday/*.json`, `reports/cache/*.json`, `reports/workflows.json`,
